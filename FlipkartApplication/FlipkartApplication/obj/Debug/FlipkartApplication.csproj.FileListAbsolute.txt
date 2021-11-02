@@ -1,0 +1,7 @@
+D:\JAYASREE\c#programs\FlipkartApplication\FlipkartApplication\bin\Debug\FlipkartApplication.exe.config
+D:\JAYASREE\c#programs\FlipkartApplication\FlipkartApplication\bin\Debug\FlipkartApplication.exe
+D:\JAYASREE\c#programs\FlipkartApplication\FlipkartApplication\bin\Debug\FlipkartApplication.pdb
+D:\JAYASREE\c#programs\FlipkartApplication\FlipkartApplication\obj\Debug\FlipkartApplication.csproj.AssemblyReference.cache
+D:\JAYASREE\c#programs\FlipkartApplication\FlipkartApplication\obj\Debug\FlipkartApplication.csproj.CoreCompileInputs.cache
+D:\JAYASREE\c#programs\FlipkartApplication\FlipkartApplication\obj\Debug\FlipkartApplication.exe
+D:\JAYASREE\c#programs\FlipkartApplication\FlipkartApplication\obj\Debug\FlipkartApplication.pdb
